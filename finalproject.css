@@ -1,0 +1,200 @@
+body{
+  background-color: rgb(129,212,250);
+}
+div.home{
+  position: absolute;
+  left: 210px;
+  bottom: 10px;
+  width: 1000px;
+  height: 550px;
+}
+div.top-div {
+  height: 120px;
+  background-size: 100% 120%;
+  background-image: url("https://www.computertraining.nl/_img/Adobe/Photoshop/Cursus%20Photoshop%20CS6%20Banner.jpg");
+}
+div.heading {
+  height: 100%;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgb(129,212,250);
+}
+div.top-div h1 {
+  text-align: center;
+  margin-top: auto;
+  font-size: 30pt;
+  font-weight: bold;
+  font-family: 'Great Vibes', calibri, helvetica, sans-serif;
+  line-height: 1.2;
+  color: white;
+  text-shadow: 3px 3px black;
+}
+nav.menu {
+  float: left;
+  width: 200px;
+  height: 2000px;
+  border-right: solid;
+  border-right-width: thin;
+  border-color: rgb(120,144,156);
+  background-color: rgb(50,50,50);
+}
+div.tab {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  width: 100%;
+  height: 50px;
+  box-sizing: border-box;
+  border-radius: 8px 8px 8px 8px;
+  background-color: rgb(0,0,0);
+  border-style: ridge;
+  border-color: rgb(0,0,0);
+}
+div.tab hover{
+  color: black;
+}
+a.navigation {
+  text-decoration: none;
+  font-size: large;
+  color: rgb(129,212,250);
+  font-family: calibri, helvetica, sans-serif;
+  margin-left: 12px;
+}
+p.brushes {
+  position: absolute;
+  left: 210px;
+  bottom: 10px;
+  width: 200px;
+  height: 550px;
+  font-size: 150%;
+}
+img.pic {
+  position: absolute;
+  left: 210px;
+  bottom: 315px;
+  width: 200px;
+  height: 550px;
+}
+div.left {
+  position: absolute;
+  left: 205px;
+  bottom: 160px;
+  width: 300px;
+  padding: 10px;
+}
+div.questions {
+  position: absolute;
+  right: 200px;
+  bottom: 200px;
+  width: 300px;
+  padding: 10px;
+}
+p.move {
+  position: absolute;
+  left: 210px;
+  bottom: 100px;
+  width: 200px;
+  height: 50px;
+  font-size: 150%;
+}
+img.fipic {
+  position: absolute;
+  left: 210px;
+  bottom: -100px;
+  width: 200px;
+  height: 50px;
+}
+div.cropping {
+  position: absolute;
+  left: 210px;
+  bottom: -160px;
+  width: 300px;
+  height: 50px;
+}
+div.secques {
+  position: absolute;
+  right: 210px;
+  bottom: -40px;
+  width: 300px;
+  height: 50px;
+}
+p.tracing {
+  position: absolute;
+  left: 210px;
+  bottom: -300px;
+  width: 300px;
+  height: 50px;
+  font-size: 150%;
+}
+img.secpic {
+  position: absolute;
+  left: 210px;
+  bottom: -500px;
+  width: 300px;
+  height: 50px;
+}
+img.thipic {
+  position: absolute;
+  left: 610px;
+  bottom: -500px;
+  width: 300px;
+  height: 50px;
+}
+div.trace {
+  position: absolute;
+  left: 210px;
+  bottom: -560px;
+  width: 300px;
+  height: 50px;
+}
+div.thiques {
+  position: absolute;
+  right: 210px;
+  bottom: -500px;
+  width: 300px;
+  height: 50px;
+}
+p.animating {
+  position: absolute;
+  left: 210px;
+  bottom: -750px;
+  width: 300px;
+  height: 50px;
+  font-size: 150%;
+}
+img.foupic {
+  position: absolute;
+  left: 210px;
+  bottom: -1025px;
+  width: 300px;
+  height: 50px;
+}
+div.animation {
+  position: absolute;
+  left: 210px;
+  bottom: -1085px;
+  width: 500px;
+  height: 50px;
+}
+div.forques {
+  position: absolute;
+  right: 210px;
+  bottom: -900px;
+  width: 300px;
+  height: 50px;
+}
+div.last {
+  position: absolute;
+  left: 500px;
+  bottom: -1250px;
+  width: 900px;
+  height: 50px;
+}
+img.end {
+  position: absolute;
+  bottom: 10px;
+  left: 350px;
+  width: 800px;
+  height: 500px;
+}
